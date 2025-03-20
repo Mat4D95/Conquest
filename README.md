@@ -1,2 +1,5 @@
 # Conquest
-A grand strategy game made by me
+A grand strategy game in the periode of WW1
+
+
+Made by me
